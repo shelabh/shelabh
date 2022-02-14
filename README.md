@@ -1,6 +1,6 @@
 ### Suup ✨ I'm Shelabh 
 <h3>Fullstack Dev || CSE-Artificial Intelligence and Machine Learning (Sophomore)</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 
 i <strong>Love</strong> building things and getting my hands dirty, here's some things i've built and contributed to:-
 
