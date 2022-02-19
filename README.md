@@ -3,7 +3,7 @@
 
 
 
-i <strong>Love</strong> building things and getting my hands dirty, here's some things i've built and contributed to:-
+
 
 <!-- <ul>
         <li><a href="https://github.com/shelabh/"><strong>Head&Tails Counter</strong></a> </li>
