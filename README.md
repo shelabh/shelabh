@@ -1,4 +1,4 @@
-### Suup ✨ I'm Shelabh 
+### Hi ✨ I'm Shelabh  🤌🏻
 <h3>Fullstack Dev || CSE-Artificial Intelligence and Machine Learning (Sophomore)</h3>
 
 
