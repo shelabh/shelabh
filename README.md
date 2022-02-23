@@ -3,14 +3,6 @@
 
 
 
-
-
-<!-- <ul>
-        <li><a href="https://github.com/shelabh/"><strong>Head&Tails Counter</strong></a> </li>
-        ‣ A GUI based heads tails counter written in C++ using QT UI/UX Library.
-        <li><a href="https://github.com/MonarchGitHub/CurrencyConverter"><strong>CurrencyConverter</strong></a> </li>
-        ‣ A currency converting application written in C++ using QT UI/UX library.
-    </ul> -->
     
    ![Shelabh's Stats](https://github-readme-stats.vercel.app/api?username=Shelabh&&theme=chartreuse-dark&show_icons=true)
   <br>
