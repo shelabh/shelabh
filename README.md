@@ -1,5 +1,5 @@
 ### Hi ✨ I'm Shelabh  🤌🏻
-<h3>Fullstack Dev || CSE-Artificial Intelligence and Machine Learning (Sophomore)</h3>
+<h3>Fullstack Dev || GSSOC'22 CONTRIBUTOR || CSE-Artificial Intelligence and Machine Learning (Sophomore)</h3>
 
 
 
